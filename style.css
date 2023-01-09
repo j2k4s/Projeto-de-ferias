@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    height: 100%;
+}
+
+.conteudo{
+    margin: 30px 0px;
+    color: white;
+}
+
+section{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+img{
+    border-radius: 8%;
+}
+
+button{
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.primario{
+    background-color: green;
+}
+
+.secundario{
+    background-color: red;
+    color: white;
+}
+
+input{
+    border: none;
+    padding: 15px 30px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
